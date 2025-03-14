@@ -1,0 +1,100 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "department": "IT",
+      "role": "Developer",
+      "salary": 60000,
+      "status": "Inactive"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "department": "HR",
+      "role": "HR Manager",
+      "salary": 75000,
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "name": "Gana",
+      "department": "IT",
+      "role": "Developer",
+      "salary": "54545",
+      "status": "Inactive"
+    },
+    {
+      "id": "4",
+      "name": "Danial",
+      "department": "Finance",
+      "role": "HR Manager",
+      "salary": "542455",
+      "status": "Active"
+    },
+    {
+      "id": "5",
+      "name": "David",
+      "department": "IT",
+      "role": "HR Manager",
+      "salary": "54789",
+      "status": "Inactive"
+    },
+    {
+      "id": "6",
+      "name": "S SaiKiran",
+      "department": "HR",
+      "role": "Developer",
+      "salary": "55476",
+      "status": "Inactive"
+    },
+    {
+      "id": "7",
+      "name": "John Doe",
+      "department": "IT",
+      "role": "Developer",
+      "salary": 60000,
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "name": "Smith",
+      "department": "HR",
+      "role": "HR Manager",
+      "salary": 75000,
+      "status": "Active"
+    },
+    {
+      "id": "9",
+      "name": "Bunny",
+      "department": "IT",
+      "role": "Developer",
+      "salary": "54545",
+      "status": "Inactive"
+    },
+    {
+      "id": "10",
+      "name": "S SaiKiran",
+      "department": "IT",
+      "role": "Developer",
+      "salary": "74564",
+      "status": "Active"
+    },
+    {
+      "id": "11",
+      "name": "Saikiran ",
+      "department": "IT",
+      "role": "HR Manager",
+      "salary": "54789",
+      "status": "Inactive"
+    },
+    {
+      "id": "12",
+      "name": "Luffy",
+      "department": "HR",
+      "role": "Developer",
+      "salary": "55476",
+      "status": "Inactive"
+    }
+  ]
+}

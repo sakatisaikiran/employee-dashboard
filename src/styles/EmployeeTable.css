@@ -1,0 +1,81 @@
+/* ===== Employee Table Styling ===== */
+/* Styling for the Employee Management Dashboard heading */
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+.employee-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Buttons */
+  button.ant-btn-primary {
+    background-color: #1890ff !important;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  button.ant-btn-primary:hover {
+    background-color: #40a9ff !important;
+  }
+  
+  button.ant-btn-link {
+    font-weight: bold;
+  }
+  
+  /* Table Styling */
+  .ant-table {
+    background: white;
+    border-radius: 8px;
+  }
+  
+  .ant-table-thead > tr > th {
+    background: #1890ff !important;
+    color: white !important;
+    font-weight: bold;
+  }
+  
+  .ant-table-tbody > tr:nth-child(even) {
+    background: #f5faff;
+  }
+  
+  .ant-table-tbody > tr:hover {
+    background: #e6f7ff !important;
+    transition: 0.3s;
+  }
+  
+  /* Filters and Search */
+  .search-input, .department-filter {
+    width: 200px !important;
+    border-radius: 5px;
+  }
+  
+  .filter-container {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  /* Status Toggle */
+  .status-toggle {
+    font-weight: bold;
+    margin-left: 15px;
+  }
+  
+  /* Modal Styling */
+  .ant-modal-content {
+    border-radius: 8px;
+  }
+  
